@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Safarnama",
+    "slug": "safarnama-travel-explorer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F4EC"
+    },
+    "android": {
+      "package": "com.safarnama.travelexplorer"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.safarnama.travelexplorer"
+    }
+  }
+}
