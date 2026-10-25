@@ -70,3 +70,15 @@ Each destination has tags such as `beach`, `mountain`, `culture`, `adventure` an
 - Budget numbers are **rough illustrative planning estimates**, not live quotes. Confirm actual costs before travel.
 - Weather and live availability are not implemented. The assignment's core requirements do not require them.
 - The itinerary is an ordered list of saved destinations, not a route optimiser or booking tool.
+
+## Suggested next steps before submission
+
+1. Run it on a real phone and test every screen, search/category combination, wishlist add/remove, and itinerary add/remove.
+2. Verify the remote images load; replace any broken URLs.
+3. Add screenshots and exact setup steps to this README after testing on your own machine.
+4. Record a 2–3 minute demo: discovery → search/filter → details/attractions → save wishlist → matcher → itinerary.
+5. Be ready to explain the state variables, the `useEffect` storage logic, and the match scoring function.
+
+## Important assignment note
+
+The assignment PDF lists **22 October 2026, 11:59 PM IST** as the submission deadline. As this starter is being prepared on 25 October 2026, confirm whether late submission is accepted.
