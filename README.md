@@ -71,14 +71,18 @@ Each destination has tags such as `beach`, `mountain`, `culture`, `adventure` an
 - Weather and live availability are not implemented. The assignment's core requirements do not require them.
 - The itinerary is an ordered list of saved destinations, not a route optimiser or booking tool.
 
-## Suggested next steps before submission
 
-1. Run it on a real phone and test every screen, search/category combination, wishlist add/remove, and itinerary add/remove.
-2. Verify the remote images load; replace any broken URLs.
-3. Add screenshots and exact setup steps to this README after testing on your own machine.
-4. Record a 2–3 minute demo: discovery → search/filter → details/attractions → save wishlist → matcher → itinerary.
-5. Be ready to explain the state variables, the `useEffect` storage logic, and the match scoring function.
+## Screenshots
 
-## Important assignment note
+### Home Screen
+![Safarnama Home](screenshots/home.jpg)
 
-The assignment PDF lists **22 October 2026, 11:59 PM IST** as the submission deadline. As this starter is being prepared on 25 October 2026, confirm whether late submission is accepted.
+### Destination Details
+![Destination Details](screenshots/details.jpg)
+
+### Wishlist
+![Wishlist](screenshots/wishlist.jpg)
+
+### Smart Matcher
+![Smart Matcher](screenshots/matcher.jpg)
+
